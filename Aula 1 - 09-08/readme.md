@@ -33,22 +33,20 @@ Deverá ser desenhado um menu, com as seguintes opções:
 * [6] - Encerrar o espetáculo (essa opção só poderá ser utilizada se tivermos 60% + 1, da ocupação total do teatro - posições vendidas. Neste momento, reservas não contam). Quando o espetáculo for encerrado, deverá ser exibido o total de cadeiras vendidas (e o valor das vendas), o total de reserva (e o valor das reservas), o total de cadeiras livres (e o valor que não foi recebido). Deverá também exibir ao final, a totalização do espetáculo.
 
 
-Total Geral de Cadeiras: XXX
+	Total Geral de Cadeiras: XXX
 
-Total de Cadeiras Vazias: XXX
+	Total de Cadeiras Vazias: XXX
 
-Total de Cadeiras Reservadas: XXX
+	Total de Cadeiras Reservadas: XXX
 
-Total de Cadeiras Vendidas: XXX
+	Total de Cadeiras Vendidas: XXX
 
-Total do Espetáculo em R$: 000.00
+	Total do Espetáculo em R$: 000.00
 
-Total não recebido em R$: 000.00
+	Total não recebido em R$: 000.00
 
-Total em reservas R$: 000.00
+	Total em reservas R$: 000.00
 
-Total em Reservas Liberadas R$: 000.00
+	Total em Reservas Liberadas R$: 000.00
 
-
-	
 * [7] - Reiniciar o espetáculo (todas as variáveis deverão ser reiniciadas e as cadeiras do espetáculo, liberadas).
