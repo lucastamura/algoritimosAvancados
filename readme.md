@@ -34,12 +34,19 @@ Deverá ser desenhado um menu, com as seguintes opções:
 
 
 	Total Geral de Cadeiras: XXX
+
 	Total de Cadeiras Vazias: XXX
+
 	Total de Cadeiras Reservadas: XXX
+
 	Total de Cadeiras Vendidas: XXX
+
 	Total do Espetáculo em R$: 000.00
+
 	Total não recebido em R$: 000.00
+
 	Total em reservas R$: 000.00
+
 	Total em Reservas Liberadas R$: 000.00
 
 * [7] - Reiniciar o espetáculo (todas as variáveis deverão ser reiniciadas e as cadeiras do espetáculo, liberadas).
